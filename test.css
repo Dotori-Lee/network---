@@ -1,0 +1,30 @@
+
+    body{
+        background-color: navajowhite;
+
+    }
+    header.center{
+        text-align: center;
+        color: brown;
+        background-color: cornsilk;
+
+    }
+    nav{
+        background-color: darkkhaki;
+    }
+    section{
+        background-color: grey;
+    }
+    
+    h2{
+        color:purple;
+    }
+ h3
+ {
+     color: blue;
+ }
+ h4{
+     color: blueviolet;
+ }
+ h4 :hover {color: darkseagreen;}
+ h4 :active{color: goldenrod;}
